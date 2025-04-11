@@ -55,5 +55,5 @@ This project is licensed under the MIT License (see [LICENSE](LICENSE) for detai
 
 ## ✨ Credits
 
-Developed, Proposed and conceptualized by **Walter A Lettau.**  
+Developed, proposed and conceptualized by **Walter A Lettau.**  
 Protected by the LICENSE.
