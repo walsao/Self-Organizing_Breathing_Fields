@@ -17,25 +17,6 @@ The breathing tension dynamics provide a unified physical mechanism for the **em
 
 ---
 
-## 🚀 Repository Structure
-
-- `/simulations/`  
-  - `breathing_bubble_1D.py`
-  - `breathing_bubble_2D.py`
-  - `breathing_2D_awareness_gravity.py`
-  
-- `/gifs/`
-  - `breathing_bubble_1D.gif`
-  - `breathing_bubble_2D.gif`
-  - `breathing_2D_awareness_femur.gif`
-  - `breathing_2D_gravity_femur.gif`
-  
-- `/docs/`
-  - `README.md`
-  - `LICENSE`
-  - `equations.md`
-
----
 
 ## 🧠 Theory Summary
 
